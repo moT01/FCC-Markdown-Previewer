@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    background-color: cadetblue; }
+
+.flex {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: space-around; }
+
+.column {
+    width: 40%;
+    max-width: 40%;
+    display: inline;
+    text-align: center; }
+
+.htmlcolumn {
+    width: 15;
+    max-width: 15%;
+    display: inline;
+    text-align: center;
+}
+
+.board {
+    font-family: Arial;
+    overflow: hidden;
+    text-align: left;
+    font-size: 14px;
+    border: 1px solid black;
+    width: 100%;
+    min-height: 600px;
+    background-color: white; }
+
+#textarea {
+    resize: vertical; }
