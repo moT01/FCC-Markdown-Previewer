@@ -1,6 +1,6 @@
 ## FCC-Markdown-Previewer
 ##### Markdown Previewer project for [freecodecamp.com](https://www.freecodecamp.com/challenges/build-a-markdown-previewer)
-##### Check it out [here](http://htmlpreview.github.io/?https://github.com/moT01/FCC-Markdown-Previewer/blob/master/index.html)
+##### Check it out [here](https://mot01.github.io/FCC-Markdown-Previewer/)
 
 <br/>
 <br/>
